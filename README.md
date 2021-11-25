@@ -12,8 +12,8 @@
 1. data persists regardless of whether program is running
 2. handling crash circumstances
 3. ability of user to create, edit, and delete their accounts, posts, and comments
-4. ability of users to obtain feed of all posts made on app
-5. user of GUI to handle all user interactions
+4. ability of users to obtain a feed of all posts made on app
+5. use of GUI to handle all user interactions
 6. ability to support multiple concurrent users over a network
 7. ability to view real-time updates (content updates automatically without refresh)
 8. user can import or export a post from or to a CSV file
