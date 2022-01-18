@@ -1,4 +1,4 @@
-# social-posting-app-cs180-final-project
+# social-posting-app-final-project
 
 ## about
 * app that allows users to create, edit, and delete posts, comments, and profiles
